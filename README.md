@@ -6,11 +6,12 @@ Es un sofware que nos permite analizar datos de peso y talla para correlacionarl
 3.- Roberto Minuche 24051  
 4.- Sara Mach 24167  
 5.- Izza Moreira 24151  
-6.- Victor Posadas 24215
+6.- Victor Posadas 24215  
 7.- Melissa Flor de Maria Gonzalez Zuleta 24253  
 8.- Kimberly Aragón 24210  
 9.- Jorge Mendez 24283  
-10.- Gabriela Peinado 24137
+10.- Gabriela Peinado 24137  
+11.- Valeria Araujo 24277
 ## Problema
 En la actualidad se utilizan múltiples métodos de recolección de información en el ámbito nutricional para evaluar el estado de una población con el fin de tomar acciones preventivas y correctivas sobre su situación. Sin embargo, estos métodos exponen carencias tecnológicas que dificultan el análisis de los datos. Aunado a ello, este es un tema tratado a nivel internacional, puesto que, existen grandes afecciones relacionadas con la alimentación y actividad física de la población estudiantil de Zamorano, destacándose entre ellas la desnutrición, malnutrición, sobrepeso y obesidad, es por ello, que el objetivo principal de este proyecto es la creación de un algoritmo que calcule de forma sistemática el Índice de Masa Corporal y correlacionar este con la edad, sexo y año que cursa con el objetivo de determinar el estado nutricional en que se encuentren los estudiantes.
 ## Solución propuesta
@@ -34,7 +35,7 @@ Propiedades de la Fuente de Datos:
 Edad, Estatura, Peso (lbs), (Año)
 Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento del IMC mediante graficas, para asi, mostrar el comportamiento de una curva acorde al año y/o edad que se encuentran los individuos.  
 El link de acceso al formulario es el siguiente: https://forms.gle/ZJAKQo5J5HXdr1h27
-El subdirectorio correspondiente se encuentra en el siguiente link: https://github.com/GoldHealth/Nutri-Analytics/blob/main/clean%20data%20v1.csv
+El subdirectorio correspondiente se encuentra en el siguiente link: https://github.com/GoldHealth/Nutri-Analytics/tree/main/data
 ## Referencias
 Bisong, E. (2019). Matplotlib and seaborn. In Building machine learning and deep learning models on google cloud platform (pp. 151-165). Apress, Berkeley, CA.
 OMS. (2021, 9 junio). Malnutrición. Recuperado 12 de septiembre de 2022, de https://www.who.int/es/news-room/fact-sheets/detail/malnutrition
