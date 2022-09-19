@@ -34,7 +34,7 @@ Se lograron recolectar 84 muestras o registros
 Propiedades de la Fuente de Datos:  
 Edad, Estatura, Peso (lbs), (Año)
 Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento del IMC mediante graficas, para asi, mostrar el comportamiento de una curva acorde al año y/o edad que se encuentran los individuos.  
-El link de acceso al formulario es el siguiente: https://forms.gle/ZJAKQo5J5HXdr1h27
+El link de acceso al formulario es el siguiente: https://forms.gle/ZJAKQo5J5HXdr1h27  
 El subdirectorio correspondiente se encuentra en el siguiente link: https://github.com/GoldHealth/Nutri-Analytics/tree/main/data
 ## Referencias
 Bisong, E. (2019). Matplotlib and seaborn. In Building machine learning and deep learning models on google cloud platform (pp. 151-165). Apress, Berkeley, CA.
