@@ -6,11 +6,7 @@ Es un sofware que nos permite analizar datos de peso y talla para correlacionarl
 3.- Roberto Minuche 24051
 4.- Sara Mach 24167
 5.- Izza Moreira 24151
-6.- Gabriela Peinado 24137
-7.- Kimberly Aragón 24210
-8.- Melissa Flor de Maria Gonzalez Zuleta 24253
-9.- Jorge Méndez 24283
-10.- Victor Posadas 24215
+6.- Victor Posadas 24215
 ## Problema
 En la actualidad se utilizan múltiples métodos de recolección de información en el ámbito nutricional para evaluar el estado de una población con el fin de tomar acciones preventivas y correctivas sobre su situación. Sin embargo, estos métodos exponen carencias tecnológicas que dificultan el análisis de los datos. Aunado a ello, este es un tema tratado a nivel internacional, puesto que, existen grandes afecciones relacionadas con la alimentación y actividad física de la población estudiantil de Zamorano, destacándose entre ellas la desnutrición, malnutrición, sobrepeso y obesidad, es por ello, que el objetivo principal de este proyecto es la creación de un algoritmo que calcule de forma sistemática el Índice de Masa Corporal y correlacionar este con la edad, sexo y año que cursa con el objetivo de determinar el estado nutricional en que se encuentren los estudiantes.
 ## Solución propuesta
@@ -27,8 +23,14 @@ El proyecto incluye los siguientes objetivos:
 En este proyecto se hará uso de diferentes herramientas de desarrollo como lo son Python y Visual Studio Code, con la finalidad de la creación de un algoritmo que calcule de forma sistemática el índice de masa corporal (IMC). Aunado a esto, se implementará GitHub como repositorio de código fuente del proyecto el cual será público para que, de esta forma, la audiencia tenga acceso a la información, de igual manera, se compartirán códigos QR que permitan el acceso directo al repositorio para facilidad de visualización. Igualmente, se utilizará la biblioteca Pandas (Universidad de Alcalá, 2019) y Matplotlib (Bisong, 2019) en conjunto con Python y CSV.
 Por último, se realizará una presentación donde se plasmé el contenido del proyecto para el Pitch y reporte final, mostrando los resultados obtenidos.
 ## Fuentes de datos
-Se recopilarán datos vía Google Forms para luego utilizarlos en formato .CSV y realizar su respectivo análisis en Python.
+Se recopilarán datos vía Google Forms.
+El formato de Datos sera .CSV
+Se lograron recolectar 84 muestras o registros
+Propiedades de la Fuente de Datos:
+Edad, Estatura, Peso (lbs), (Año)
+Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento del IMC mediante graficas, para asi, mostrar el comportamiento de una curva acorde al año y/o edad que se encuentran los individuos.
 El link de acceso al formulario es el siguiente: https://forms.gle/ZJAKQo5J5HXdr1h27
+El subdirectorio correspondiente se encuentra en el siguiente link:
 ## Referencias
 Bisong, E. (2019). Matplotlib and seaborn. In Building machine learning and deep learning models on google cloud platform (pp. 151-165). Apress, Berkeley, CA.
 OMS. (2021, 9 junio). Malnutrición. Recuperado 12 de septiembre de 2022, de https://www.who.int/es/news-room/fact-sheets/detail/malnutrition
