@@ -23,12 +23,12 @@ El proyecto incluye los siguientes objetivos:
 En este proyecto se hará uso de diferentes herramientas de desarrollo como lo son Python y Visual Studio Code, con la finalidad de la creación de un algoritmo que calcule de forma sistemática el índice de masa corporal (IMC). Aunado a esto, se implementará GitHub como repositorio de código fuente del proyecto el cual será público para que, de esta forma, la audiencia tenga acceso a la información, de igual manera, se compartirán códigos QR que permitan el acceso directo al repositorio para facilidad de visualización. Igualmente, se utilizará la biblioteca Pandas (Universidad de Alcalá, 2019) y Matplotlib (Bisong, 2019) en conjunto con Python y CSV.
 Por último, se realizará una presentación donde se plasmé el contenido del proyecto para el Pitch y reporte final, mostrando los resultados obtenidos.
 ## Fuentes de datos
-Se recopilarán datos vía Google Forms.
-El formato de Datos sera .CSV
+Se recopilarán datos vía Google Forms.  
+El formato de Datos sera .CSV  
 Se lograron recolectar 84 muestras o registros
-Propiedades de la Fuente de Datos:
-Edad, Estatura, Peso (lbs), (Año)\ñ
-Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento del IMC mediante graficas, para asi, mostrar el comportamiento de una curva acorde al año y/o edad que se encuentran los individuos.
+Propiedades de la Fuente de Datos:  
+Edad, Estatura, Peso (lbs), (Año)
+Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento del IMC mediante graficas, para asi, mostrar el comportamiento de una curva acorde al año y/o edad que se encuentran los individuos.  
 El link de acceso al formulario es el siguiente: https://forms.gle/ZJAKQo5J5HXdr1h27
 El subdirectorio correspondiente se encuentra en el siguiente link:
 ## Referencias
