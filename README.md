@@ -7,7 +7,7 @@ Es un sofware que nos permite analizar datos de peso y talla para correlacionarl
 4.- Sara Mach 24167  
 5.- Izza Moreira 24151  
 6.- Victor Posadas 24215
-7.- Melissa Flor de Maria Gonzalez Zuleta 24253  
+7.-  Melissa Flor de Maria Gonzalez Zuleta 24253  
 8.- Kimberly Aragón 24210  
 9.- Jorge Mendez 24283  
 10.- Gabriela Peinado 24137
