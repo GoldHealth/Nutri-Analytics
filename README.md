@@ -3,6 +3,7 @@ Es un sofware que nos permite analizar datos de peso y talla para correlacionarl
 ## Integrantes
 1.- Sebastian Salvatierra Saavedra 24278
 2.- Francis Rios 24174 
+3.- Roberto Minuche 24051
 ## Problema
 En la actualidad se utilizan múltiples métodos de recolección de información en el ámbito nutricional para evaluar el estado de una población con el fin de tomar acciones preventivas y correctivas sobre su situación. Sin embargo, estos métodos exponen carencias tecnológicas que dificultan el análisis de los datos. Aunado a ello, este es un tema tratado a nivel internacional, puesto que, existen grandes afecciones relacionadas con la alimentación y actividad física de la población estudiantil de Zamorano, destacándose entre ellas la desnutrición, malnutrición, sobrepeso y obesidad, es por ello, que el objetivo principal de este proyecto es la creación de un algoritmo que calcule de forma sistemática el Índice de Masa Corporal y correlacionar este con la edad, sexo y año que cursa con el objetivo de determinar el estado nutricional en que se encuentren los estudiantes.
 ## Solución propuesta
