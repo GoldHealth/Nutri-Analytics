@@ -20,9 +20,9 @@ Para este proyecto, requerimos de la utilización de Python como lenguaje de pro
 El proyecto incluye los siguientes objetivos:  
 • Crear un repositorio público de código fuente para el proyecto: Nutri-Analytics. 
 • Automatizar la ingestión de una fuente de datos CSV de datos de peso, edad y estatura de la población estudiantil de Zamorano mediante el software Python.
-•Digitalizar de manera automática la subida a memoria de los datos en un formato consistente para facilitar el análisis de los datos recolectados.  
-•Analizar gráficas que faciliten la interpretación del índice de masa corporal de la población estudiantil de Zamorano. 
-•Correlacionar el Índice de Masa Corporal de la población con respecto a su estatura y la estatura con el peso. 
+• Digitalizar de manera automática la subida a memoria de los datos en un formato consistente para facilitar el análisis de los datos recolectados.  
+• Analizar gráficas que faciliten la interpretación del índice de masa corporal de la población estudiantil de Zamorano. 
+• Correlacionar el Índice de Masa Corporal de la población con respecto a su estatura y la estatura con el peso. 
 ## Método
 En este proyecto se hará uso de diferentes herramientas de desarrollo como lo son Python y Visual Studio Code, con la finalidad de la creación de un algoritmo que calcule de forma sistemática el índice de masa corporal (IMC). Aunado a esto, se implementará GitHub como repositorio de código fuente del proyecto el cual será público para que, de esta forma, la audiencia tenga acceso a la información, de igual manera, se compartirán códigos QR que permitan el acceso directo al repositorio para facilidad de visualización. Igualmente, se utilizará la biblioteca Pandas (Universidad de Alcalá, 2019) y Matplotlib (Bisong, 2019) en conjunto con Python y CSV.
 Por último, se realizará una presentación donde se plasmé el contenido del proyecto para el Pitch y reporte final, mostrando los resultados obtenidos.
