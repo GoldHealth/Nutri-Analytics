@@ -45,6 +45,7 @@ ii.	Librerías:
 -	Sklearn
 
 iii.	Métodos:
+
 Para la resolución del problema, primeramente, se realizó una encuesta de Google Forms a los estudiantes de primero, segundo y tercer año, en la cual, se les preguntó los siguientes rubros: edad, peso (lb), estatura (m) y año de carrera. 
 
 Los datos obtenidos de la encuesta se tabularon en Microsoft Excel para ordenar los datos y poder analizarlos posteriormente. Se utilizó en formato csv.
