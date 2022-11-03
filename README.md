@@ -46,13 +46,21 @@ ii.	Librerías:
 
 iii.	Métodos:
 Para la resolución del problema, primeramente, se realizó una encuesta de Google Forms a los estudiantes de primero, segundo y tercer año, en la cual, se les preguntó los siguientes rubros: edad, peso (lb), estatura (m) y año de carrera. 
+
 Los datos obtenidos de la encuesta se tabularon en Microsoft Excel para ordenar los datos y poder analizarlos posteriormente. Se utilizó en formato csv.
-Python: Se importaron librerías, las cuales son: 
+
+Python: Se importaron librerías, las cuales son:
+
 Sklearns: es una librería para modelo de regresión lineal. 
+
 Pandas: es una herramienta de manipulación y análisis de datos de código abierto rápida, potente y flexible de usar, construida sobre el lenguaje de programación Python.
+
 Matplotlib: es una biblioteca completa para crear visualizaciones estáticas, animadas e interactivas en Python. Se utilizó para realizar las gráficas de los datos analizados. 
+
 Numpy: en la biblioteca de Python que se utilizó para trabajar las operaciones matemáticas. 
+
 Estadístico: se utilizó para el análisis estadístico y con el uso del programa Survey Monkey se estimó el tamaño de la muestra https://es.surveymonkey.com/mp/sample-size-calculator/
+
 Por último, se realizará una presentación donde se plasmé el contenido del proyecto para el Pitch y reporte final, mostrando los resultados obtenidos.
 ## Fuentes de datos
 Se recopilarán datos vía Google Forms.  
