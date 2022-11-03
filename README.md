@@ -66,7 +66,7 @@ Por último, se realizará una presentación donde se plasmé el contenido del p
 ## Fuentes de datos
 Se recopilarán datos vía Google Forms.  
 El formato de Datos sera .CSV  
-Se lograron recolectar 84 muestras o registros
+Se logró recolectar 259  muestras o registros
 Propiedades de la Fuente de Datos:  
 Edad, Estatura, Peso (lbs), (Año)
 Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento del IMC mediante graficas, para asi, mostrar el comportamiento de una curva acorde al año y/o edad que se encuentran los individuos.  
