@@ -15,9 +15,10 @@ Es un sofware que nos permite analizar datos de peso y talla para correlacionarl
 ## Problema
 En la actualidad se utilizan múltiples métodos de recolección de información en el ámbito nutricional para evaluar el estado de una población con el fin de tomar acciones preventivas y correctivas sobre su situación. Sin embargo, estos métodos exponen carencias tecnológicas que dificultan el análisis de los datos. Aunado a ello, este es un tema tratado a nivel internacional, puesto que, existen grandes afecciones relacionadas con la alimentación y actividad física de la población estudiantil de Zamorano, destacándose entre ellas la desnutrición, malnutrición, sobrepeso y obesidad, es por ello, que el objetivo principal de este proyecto es la creación de gráficos mediante el uso de Jupiter-Python y Matplotlib sobre el índice de masa corporal y correlacionar los datos de estatura con el peso esto con el objetivo de determinar el estado nutricional en que se encuentran los estudiantes. 
 ## Solución propuesta
-Para este proyecto, requerimos de la utilización de Python como lenguaje de programación, el cual será de ayuda para automatizar la inspección de datos que van a ser recolectados con Google Forms, además se hará uso del editor de código fuente VSC. Se busca desarrollar un programa que pueda de alguna manera aprovechar e interpretar los datos tomados.
+Para este proyecto, se realizó el uso del lenguaje de programación Python, el cual fue de ayuda para automatizar la inspección de datos sobre los diferentes IMC’S de las diferentes poblaciones de Zamorano, que fueron recolectados mediante el software de administración de encuestas, Google Forms, además se empleó el editor de código fuente de Jupiter-Python, mediante el uso de la librería Matplotlib. Lo anteriormente mencionado, es un todo que nos permitieron desarrollar un programa que aprovechó los datos obtenidos de la población estudiantil y los interpretó darles el enfoque estadístico.
 ## Objetivos
 El proyecto incluye los siguientes objetivos:  
+
 • Crear un repositorio público de código fuente para el proyecto: Nutri-Analytics. 
 
 • Automatizar la ingestión de una fuente de datos CSV de datos de peso, edad y estatura de la población estudiantil de Zamorano mediante el software Python.
@@ -27,8 +28,31 @@ El proyecto incluye los siguientes objetivos:
 • Analizar gráficas que faciliten la interpretación del índice de masa corporal de la población estudiantil de Zamorano. 
 
 • Correlacionar el Índice de Masa Corporal de la población con respecto a su estatura y la estatura con el peso. 
-## Método
-En este proyecto se hará uso de diferentes herramientas de desarrollo como lo son Python y Visual Studio Code, con la finalidad de la creación de un algoritmo que calcule de forma sistemática el índice de masa corporal (IMC). Aunado a esto, se implementará GitHub como repositorio de código fuente del proyecto el cual será público para que, de esta forma, la audiencia tenga acceso a la información, de igual manera, se compartirán códigos QR que permitan el acceso directo al repositorio para facilidad de visualización. Igualmente, se utilizará la biblioteca Pandas (Universidad de Alcalá, 2019) y Matplotlib (Bisong, 2019) en conjunto con Python y CSV.
+## Herramientas y Métodos
+
+i.	Herramientas: 
+-	Jupyter
+-	Github
+-	Encuesta de google forms
+-	Lenguaje de programación Python
+-	Microsoft Excel 365
+
+ii.	Librerías:
+-	Pandas
+-	Matplolib
+-	Numpy 
+-	Statistics 
+-	Sklearn
+
+iii.	Métodos:
+Para la resolución del problema, primeramente, se realizó una encuesta de Google Forms a los estudiantes de primero, segundo y tercer año, en la cual, se les preguntó los siguientes rubros: edad, peso (lb), estatura (m) y año de carrera. 
+Los datos obtenidos de la encuesta se tabularon en Microsoft Excel para ordenar los datos y poder analizarlos posteriormente. Se utilizó en formato csv.
+Python: Se importaron librerías, las cuales son: 
+Sklearns: es una librería para modelo de regresión lineal. 
+Pandas: es una herramienta de manipulación y análisis de datos de código abierto rápida, potente y flexible de usar, construida sobre el lenguaje de programación Python.
+Matplotlib: es una biblioteca completa para crear visualizaciones estáticas, animadas e interactivas en Python. Se utilizó para realizar las gráficas de los datos analizados. 
+Numpy: en la biblioteca de Python que se utilizó para trabajar las operaciones matemáticas. 
+Estadístico: se utilizó para el análisis estadístico y con el uso del programa Survey Monkey se estimó el tamaño de la muestra https://es.surveymonkey.com/mp/sample-size-calculator/
 Por último, se realizará una presentación donde se plasmé el contenido del proyecto para el Pitch y reporte final, mostrando los resultados obtenidos.
 ## Fuentes de datos
 Se recopilarán datos vía Google Forms.  
