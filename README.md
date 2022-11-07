@@ -73,10 +73,10 @@ Discusión/Analisis: Se tiene planeado, mostrar graficamente el comportamiento d
 El link de acceso al formulario es el siguiente: https://forms.gle/ZJAKQo5J5HXdr1h27  
 El subdirectorio correspondiente se encuentra en el siguiente link: https://github.com/GoldHealth/Nutri-Analytics/tree/main/data
 ## Resultados
-Correlacion Peso vs IMC\ñ
-![Image text](https://github.com/GoldHealth/Nutri-Analytics/blob/main/pesoimc.png) \ñ
-Correlacion Estatura vs Peso \ñ
-![Image text](https://github.com/GoldHealth/Nutri-Analytics/blob/main/estpeso.png) \ñ
+Correlacion Peso vs IMC
+![Image text](https://github.com/GoldHealth/Nutri-Analytics/blob/main/pesoimc.png)
+Correlacion Estatura vs Peso
+![Image text](https://github.com/GoldHealth/Nutri-Analytics/blob/main/estpeso.png)
 ## Referencias
 Bisong, E. (2019). Matplotlib and seaborn. In Building machine learning and deep learning models on google cloud platform (pp. 151-165). Apress, Berkeley, CA.
 OMS. (2021, 9 junio). Malnutrición. Recuperado 12 de septiembre de 2022, de https://www.who.int/es/news-room/fact-sheets/detail/malnutrition
